@@ -1,2 +1,2 @@
 # Parkinson-disease-prediction
-The goal of this project was to develop an image  classification algorithm to detect Parkinson’s disease.
+This project aimed to develop a classification model to detect Parkinson’s disease based on visual patterns in spirals, waveforms, and handwriting obtained during clinical assessments. Although pen pressure is a key factor in diagnosing the disease, this study explored whether visual characteristics alone could effectively indicate the presence and severity of Parkinson’s.
